@@ -2,7 +2,6 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>이용약관</title>
 </head>
 <body>
   <h1>이용약관</h1>
