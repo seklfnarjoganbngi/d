@@ -25,6 +25,6 @@
   <p>외부에 제공되지 않습니다.</p>
 
   <h2>5. 문의</h2>
-  <p>문의: your@email.com</p>
+  <p>문의: kk0024157@gmail.com</p>
 </body>
 </html>
